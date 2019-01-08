@@ -1,0 +1,2 @@
+# VertMagazineStore
+VertMagazineStore API
